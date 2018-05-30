@@ -1,6 +1,6 @@
 
 <h1>Phormatics: <em>Using AI to Maximize Your Workout</em></h1>
-<h4>(This is the ORIGINAL Hackathon Project. NEW changes & MAJOR updates will be carried out in a seperate repo.)</h4>
+<h4>(This is the ORIGINAL Hackathon Project. NEW changes & MAJOR updates will be carried out in a seperate repository.)</h4>
 
 <img src="https://github.com/jrobchin/phormatics/blob/master/screenshots/frontpage.gif?raw=true" height="250px"></br>
 <sup><em>f1: front page (the gif may be choppy at first, but it's worth it I promise)</em></sup>

@@ -1,5 +1,6 @@
 
 <h1>Phormatics: <em>Using AI to Maximize Your Workout</em></h1>
+<h3>(This is the initial HACKNYU Project. Not to be confused with further work done in a private repo.)</h3>
 
 <img src="https://github.com/jrobchin/phormatics/blob/master/screenshots/frontpage.gif?raw=true" height="250px"></br>
 <sup><em>f1: front page (the gif may be choppy at first, but it's worth it I promise)</em></sup>
